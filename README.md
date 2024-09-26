@@ -1,5 +1,4 @@
 <h1 align="center">Prazer, Pietro Sotile</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 Estou desenvolvendo um sistema para meu TCC: [SEPAIS](https://github.com/garzuze/SEPAIS)
 
