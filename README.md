@@ -4,4 +4,9 @@
 
 - 📫 Contato: **pietro.sotile@gmail.com**
 
-<p align="center"> [![My Skills](https://skillicons.dev/icons?i=js,mysql,php,tailwind)](https://skillicons.dev) </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,mysql,php,tailwind)"/>
+  </a>
+</p>
+
